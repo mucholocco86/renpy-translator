@@ -60,6 +60,7 @@ Afrikaans Zulu: zu
 Nepali: ne
 Norwegian: no
 Punjabi : pa
+Portuguese (Brazil): pt-BR
 Portuguese: pt
 Pashtu (one of the languages of Afghanistan): ps
 Tschewa: ny
